@@ -1,5 +1,5 @@
-# SNUCM_medical_datascience 2022
-SNUCM_medical_datascience 2022
+# SNUCM_medical_datascience 2023
+SNUCM_medical_datascience 2023
 
 데이터 다운로드 링크:
 https://drive.google.com/drive/folders/14rghfVUoq7n0ZTEZGCDiE4DxUCDjDI25?usp=sharing
